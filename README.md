@@ -45,12 +45,6 @@
 
 <br clear="both">
 
-<p align="left">Here are the languages, tools, and technologies I bravely face every day... with a little screaming on the side.<br><br>💻 Languages<br>- <b>C# + Dapper</b> — Where I pretend to understand databases like a senior dev.<br>- <b>Flutter & Kotlin</b> — One for cross-platform dreams, one for native Android nightmares.<br>- <b>HTML & CSS</b> — For every “why won’t this align??” moment in my life.<br><br>🛠️ Tools & Frameworks<br>- <b>Android Studio</b> — My favorite lagging machine.<br>- <b>Git & GitHub</b> — Aka "commit, push, panic, fix, force-push".<br>- <b>VS Code & Visual Studio</b> — When I want to feel powerful and confused at the same time.<br><br>🧪 Currently Experimenting With<br>- <b>Entity Framework (C#)</b> — ORM magic that sometimes just... refuses to cooperate.<br>- <b>React</b> — Because life wasn’t hard enough with just Flutter.<br>- <b>Tailwind CSS</b> — Writing `p-4 mt-2 w-full` like it’s a secret code.<br>- <b>Arduino</b> — Turning wires and code into chaos (but it blinks, so it’s fine).<br><br>> I may not be an expert, but I’m definitely having a good time breaking things and learning along the way. Sometimes it even compiles!
-
-###
-
-<br clear="both">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -80,6 +74,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<p align="left">Here are the languages, tools, and technologies I bravely face every day... with a little screaming on the side.<br><br>💻 Languages<br>- <b>C# + Dapper</b> — Where I pretend to understand databases like a senior dev.<br>- <b>Flutter & Kotlin</b> — One for cross-platform dreams, one for native Android nightmares.<br>- <b>HTML & CSS</b> — For every “why won’t this align??” moment in my life.<br><br>🛠️ Tools & Frameworks<br>- <b>Android Studio</b> — My favorite lagging machine.<br>- <b>Git & GitHub</b> — Aka "commit, push, panic, fix, force-push".<br>- <b>VS Code & Visual Studio</b> — When I want to feel powerful and confused at the same time.<br><br>🧪 Currently Experimenting With<br>- <b>Entity Framework (C#)</b> — ORM magic that sometimes just... refuses to cooperate.<br>- <b>React</b> — Because life wasn’t hard enough with just Flutter.<br>- <b>Tailwind CSS</b> — Writing `p-4 mt-2 w-full` like it’s a secret code.<br>- <b>Arduino</b> — Turning wires and code into chaos (but it blinks, so it’s fine).<br><br>> I may not be an expert, but I’m definitely having a good time breaking things and learning along the way. Sometimes it even compiles!
 
 ###
 
